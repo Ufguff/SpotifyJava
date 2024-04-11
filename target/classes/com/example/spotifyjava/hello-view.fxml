@@ -9,6 +9,7 @@
 <?import javafx.scene.layout.VBox?>
 
 <StackPane alignment="BOTTOM_LEFT" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
       <StackPane prefHeight="150.0" prefWidth="200.0">
          <children>
             <SplitPane dividerPositions="0.5" maxHeight="1.7976931348623157E308" prefHeight="160.0" prefWidth="200.0">
@@ -57,4 +58,5 @@
       </StackPane>
       <HBox maxHeight="-Infinity" nodeOrientation="LEFT_TO_RIGHT" prefHeight="80.0" prefWidth="200.0" style="-fx-background-color: red;">
       </HBox>
+   </children>
 </StackPane>
